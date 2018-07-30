@@ -4,3 +4,11 @@
 .sky { color: #4b8098; }
 .bg-crema { background-color: #ce8368; }
 .bg-sky { background-color: #bfd6da; }
+
+.b--sky { border-color: #4b8098; }
+
+@media(min-width: 30em) {
+  .white-ns {
+    color: #FFFFFF;
+  }
+}
