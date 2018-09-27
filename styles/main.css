@@ -12,3 +12,9 @@
     color: #FFFFFF;
   }
 }
+
+@media(min-width: 60em) {
+  .vh-85-l {
+    height: 85vh;
+  }
+}
