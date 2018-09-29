@@ -3,7 +3,7 @@
 .crema { color: #ce8368; }
 .sky { color: #4b8098; }
 .bg-crema { background-color: #ce8368; }
-.bg-sky { background-color: #bfd6da; }
+.bg-sky { background-color: #4b8098; }
 
 .b--sky { border-color: #4b8098; }
 
@@ -17,4 +17,57 @@
   .vh-85-l {
     height: 85vh;
   }
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 1em;
+  line-height: 1.35;
+}
+p {
+  margin-top: 0px;
+  margin-bottom: 1rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1.5rem;
+  margin-bottom: .5rem;
+  font-size: 1.2rem;
+}
+h1 {
+  margin-top: 0px;
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+ul {
+  padding-left: 20px;
+}
+ol {
+  padding-left: 30px;
+}
+ul li,
+ol li {
+  margin-top: 0px;
+  margin-bottom: .75rem;
+}
+blockquote {
+  padding-left: .75rem;
+  padding-right: .75rem;
+  font-size: .9rem;
+  line-height: 1.35;
+  border-left: none;
+}
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #777;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
 }
