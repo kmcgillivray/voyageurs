@@ -7,6 +7,7 @@ endTime: 7:30PM
 dateString: December 5, 12, 19
 locationName: Titletown Tap Room
 locationAddress: 320 N. Broadway Green Bay, WI
+locationLink: https://www.titletownbrewing.com
 image: IMG_9508.jpg
 link: http://tradingpost.market
 ---
