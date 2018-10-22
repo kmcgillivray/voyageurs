@@ -12,13 +12,22 @@
     color: #FFFFFF;
   }
 }
+.lh-double {
+  line-height: 2;
+}
 
+.vh-90 {
+  height: 90vh;
+}
 @media(min-width: 60em) {
   .vh-85-l {
     height: 85vh;
   }
 }
 
+html {
+  font-size: 17px;
+}
 body {
   font-family: Helvetica, sans-serif;
   font-size: 1em;
