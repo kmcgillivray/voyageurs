@@ -2,6 +2,8 @@
 layout: page
 title: Frequently Asked Questions
 headerImage: IMG_9520.jpg
+social-image: IMG_9520.jpg
+description: All your questions about sourdough answered...
 ---
 
 We love answering questions about sourdough from people who love eating it. If there's something you want to know that isn't covered here, please reach out and we'll do our best to get you an answer.

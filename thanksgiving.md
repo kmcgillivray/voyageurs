@@ -1,8 +1,9 @@
 ---
 layout: default
 hideCta: true
-title: Thanksgiving 2018
+title: Thanksgiving Sourdough Orders
 social-image: thanksgiving-3.jpg
+description: Share the joy of handcrafted sourdough with your family and friends.
 ---
 
 <div class="pa3 pa4-l vh-100-l flex-ns cover bg-center" style="background-image: url(/images/thanksgiving-3.jpg);">
