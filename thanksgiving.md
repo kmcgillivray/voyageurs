@@ -40,12 +40,12 @@ hideCta: true
     <div class="flex-ns">
       <div class="w-50-ns pr3-ns">
         <img class="br4 db w-100 mb3 mb0-ns" src="/images/country-loaf-product.jpg">
-        <h3 class="mt0 sky">Country Loaf</h3>
+        <h3 class="mt0 mt3-ns sky">Country Loaf</h3>
         <p class="mb4">A classic French-style sourdough with a crispy crust and a blend of white and whole wheat flours with a touch of rye.</p>
       </div>
       <div class="w-50-ns pl3-ns">
         <img class="br4 db w-100 mb3 mb0-ns" src="/images/country-loaf-product.jpg">
-        <h3 class="mt0 sky">Cinnamon Raisin Maple</h3>
+        <h3 class="mt0 mt3-ns sky">Cinnamon Raisin Maple</h3>
         <p class="mb4">A favorite from our fall menu! Our crispy sourdough mixed with raisins, cinnamon, and maple syrup. Perfect for breakfast before a fall hike!</p>
       </div>
     </div>
