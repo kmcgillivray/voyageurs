@@ -3,12 +3,12 @@ layout: default
 hideCta: true
 ---
 
-<div class="pa4 vh-100-l flex-ns cover" style="background-image: url(/images/thanksgiving-3.jpg);">
-  <div class="mv4 pv6" style="max-width: 850px;">
+<div class="pa3 pa4-l vh-100-l flex-ns cover bg-center" style="background-image: url(/images/thanksgiving-3.jpg);">
+  <div class="mv4 pv6-l" style="max-width: 850px;">
     <h1 class="mt0 white f2 f1-l lh-title text-shadow">Break bread this Thanksgiving with Voyageurs Sourdough</h1>
     <p class="f4 f3-l white text-shadow" style="max-width: 600px;">Share the joy of handcrafted sourdough with your family and friends. Place your order before November 18 to get it delivered free.</p>
-    <a href="https://goo.gl/forms/zHt9PTx3PXeOzVfk2" target="_blank" class="dib link bg-sky white ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked">Order for November 20</a>
-    <a href="https://goo.gl/forms/M3HtMJZoSsq2u1ls1" target="_blank" class="dib link bg-sky white ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked">Order for November 21</a>
+    <a href="https://goo.gl/forms/zHt9PTx3PXeOzVfk2" target="_blank" class="dib link bg-sky white ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked tc">Order for November 20</a>
+    <a href="https://goo.gl/forms/M3HtMJZoSsq2u1ls1" target="_blank" class="dib link bg-sky white ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked tc">Order for November 21</a>
   </div>
 </div>
 
@@ -40,19 +40,19 @@ hideCta: true
     <div class="flex-ns">
       <div class="w-50-ns pr3-ns">
         <img class="br4 db w-100 mb3 mb0-ns" src="/images/country-loaf-product.jpg">
-        <h3 class="sky">Country Loaf</h3>
-        <p>A classic French-style sourdough with a crispy crust and a blend of white and whole wheat flours with a touch of rye.</p>
+        <h3 class="mt0 sky">Country Loaf</h3>
+        <p class="mb4">A classic French-style sourdough with a crispy crust and a blend of white and whole wheat flours with a touch of rye.</p>
       </div>
       <div class="w-50-ns pl3-ns">
         <img class="br4 db w-100 mb3 mb0-ns" src="/images/country-loaf-product.jpg">
-        <h3 class="sky">Cinnamon Raisin Maple</h3>
-        <p>A favorite from our fall menu! Our crispy sourdough mixed with raisins, cinnamon, and maple syrup. Perfect for breakfast before a fall hike!</p>
+        <h3 class="mt0 sky">Cinnamon Raisin Maple</h3>
+        <p class="mb4">A favorite from our fall menu! Our crispy sourdough mixed with raisins, cinnamon, and maple syrup. Perfect for breakfast before a fall hike!</p>
       </div>
     </div>
   </div>
 </section>
 
-<section class="mw8 pv6 ph4 center tc">
+<section class="mw8 pv4 pv6-l ph4 center tc">
   <h2 class="mw7 center mt0 f3 f2-l fw4 crema lh-title">Share the joy of handcrafted sourdough with your family and friends.</h2>
   <p class="f4 f3-l">Place your order before November 18 to get it delivered free.</p>
   <a href="https://goo.gl/forms/zHt9PTx3PXeOzVfk2" target="_blank" class="dib link bg-sky white ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked">Order for November 20</a>
