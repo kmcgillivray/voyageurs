@@ -9,7 +9,9 @@
 
     {{ content }}
 
-    {% include call-to-action.html %}
+    {% unless page.hideCta %}
+      {% include call-to-action.html %}
+    {% endunless %}
 
     {% include footer.html %}
 

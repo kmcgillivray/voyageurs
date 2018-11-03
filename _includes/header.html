@@ -5,7 +5,9 @@
       <li class="dib mv0 pa1 pa2-ns"><a class="dib link crema f6 pa1 b dim ttu tracked" href="/events">Events & Markets</a></li>
       <li class="dib mv0 pa1 pa2-ns"><a class="dib link crema f6 pa1 b dim ttu tracked" href="/faq">FAQs</a></li>
       <li class="dib mv0 pa1 pa2-ns"><a class="dib link crema f6 pa1 b dim ttu tracked" href="https://tinyletter.com/voyageurssourdough">Newsletter</a></li>
+      {% unless page.hideCta %}
       <li class="dib mv0 pa1 pa2-ns"><a class="dib link bg-sky white ba bw1 b--white-50 f6 ph3 pv2 br3 b dim ttu tracked" target="_blank" href="{{ site.orderLink }}">Order now</a></li>
+      {% endunless %}
     </ul>
   </nav>
 </header>

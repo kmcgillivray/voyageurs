@@ -1,6 +1,7 @@
 .montserrat { font-family: 'Montserrat', sans-serif; }
 
 .crema { color: #ce8368; }
+.crust { color: #8e452a; }
 .sky { color: #4b8098; }
 .bg-crema { background-color: #ce8368; }
 .bg-sky { background-color: #4b8098; }
@@ -14,6 +15,10 @@
 }
 .lh-double {
   line-height: 2;
+}
+
+.text-shadow {
+  text-shadow: 0 1px 5px rgba(0,0,0,0.3);
 }
 
 .vh-90 {
