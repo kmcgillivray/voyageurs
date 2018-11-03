@@ -1,6 +1,8 @@
 ---
 layout: default
 hideCta: true
+title: Thanksgiving 2018
+social-image: thanksgiving-3.jpg
 ---
 
 <div class="pa3 pa4-l vh-100-l flex-ns cover bg-center" style="background-image: url(/images/thanksgiving-3.jpg);">

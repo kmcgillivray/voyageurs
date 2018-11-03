@@ -1,0 +1,12 @@
+<meta property="og:title" content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Voyageurs Sourdough">
+<meta property="og:url" content="https://{{ site.url }}{{ page.url }}">
+{% if page.description %}
+<meta property="og:description" content="{{ page.description }}">
+{% else %}
+<meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200}}">
+{% endif %}
+{% if page.social-image %}
+<meta property="og:image" content="https://{{ site.url }}/images/{{ page.social-image }}">
+{% endif %}
