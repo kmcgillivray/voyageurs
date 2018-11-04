@@ -6,7 +6,7 @@ social-image: thanksgiving-3.jpg
 description: Share the joy of handcrafted sourdough with your family and friends.
 ---
 
-<div class="pa3 pa4-l vh-100-l flex-ns cover bg-center" style="background-image: url(/images/thanksgiving-3.jpg);">
+<div class="pa3 pa4-l vh-100-l flex-ns cover bg-center" style="background-image: url(/images/thanksgiving-4.jpg);">
   <div class="mv4 pv5-l" style="max-width: 850px;">
     <h1 class="mt3-l white f2 f1-l lh-title text-shadow">Break bread this Thanksgiving with Voyageurs Sourdough</h1>
     <p class="f4 f3-l white text-shadow" style="max-width: 600px;">Share the joy of handcrafted sourdough with your family and friends. Place your order before November 18 to get it delivered free.</p>
@@ -47,7 +47,7 @@ description: Share the joy of handcrafted sourdough with your family and friends
         <p class="mb4">A classic French-style sourdough with a crispy crust and a blend of white and whole wheat flours with a touch of rye.</p>
       </div>
       <div class="w-50-ns pl3-ns">
-        <img class="br4 db w-100 mb3 mb0-ns" src="/images/country-loaf-product.jpg">
+        <img class="br4 db w-100 mb3 mb0-ns" src="/images/cinnamon-raisin-product.jpg">
         <h3 class="mt0 mt3-ns sky">Cinnamon Raisin Maple</h3>
         <p class="mb4">A favorite from our fall menu! Our crispy sourdough mixed with raisins, cinnamon, and maple syrup. Perfect for breakfast before a fall hike!</p>
       </div>
