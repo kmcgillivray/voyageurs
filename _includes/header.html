@@ -1,4 +1,9 @@
 <header class="fixed-l bg-white w-100 bb b--light-gray">
+  {% unless page.hideCta %}
+  <div class="pa2 tc bg-crema">
+    <p class="mb0 white"> <span class="b">Thanksgiving orders are now open!</span> Order by 11/18 for delivery 11/20 or 11/21.  <a class="dib link bg-white crema f6 ph3 pv2 br3 ml1 b dim ttu tracked" target="_blank" href="/thanksgiving">Order now</a></p>
+  </div>
+  {% endunless %}
   <nav class="ph2 pv1 flex-l justify-between items-center tc tl-l">
     <a class="w-auto db pa2 mt0 left-0 f4 ttu tracked sky link lh-solid b" href="/">Voyageurs Sourdough</a>
     <ul class="list mv0 pl0 tr-l">
