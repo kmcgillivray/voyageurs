@@ -10,8 +10,7 @@ description: Share the joy of handcrafted sourdough with your family and friends
   <div class="mv4 pv5-l" style="max-width: 850px;">
     <h1 class="mt3-l white f2 f1-l lh-title text-shadow">Break bread this Thanksgiving with Voyageurs Sourdough</h1>
     <p class="f4 f3-l white text-shadow" style="max-width: 600px;">Share the joy of handcrafted sourdough with your family and friends. Place your order before November 18 to get it delivered free.</p>
-    <a href="https://goo.gl/forms/zHt9PTx3PXeOzVfk2" target="_blank" class="dib link bg-sky white ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked tc">Order for November 20</a>
-    <span href="#" target="_blank" class="dib link bg-light-gray mid-gray ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b ttu tracked tc">Order for November 21 – Sold out</span>
+    <span href="#" target="_blank" class="dib link bg-light-gray mid-gray ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b ttu tracked tc">Sold out – thank you!</span>
   </div>
 </div>
 
@@ -58,6 +57,5 @@ description: Share the joy of handcrafted sourdough with your family and friends
 <section class="mw8 pv4 pv6-l ph4 center tc">
   <h2 class="mw7 center mt0 f3 f2-l fw4 crema lh-title">Share the joy of handcrafted sourdough with your family and friends.</h2>
   <p class="f4 f3-l">Place your order before November 18 to get it delivered free.</p>
-  <a href="https://goo.gl/forms/zHt9PTx3PXeOzVfk2" target="_blank" class="dib link bg-sky white ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked">Order for November 20</a>
-  <span href="#" target="_blank" class="dib link bg-light-gray mid-gray ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b ttu tracked tc">Order for November 21 – Sold out</span>
+  <span href="#" target="_blank" class="dib link bg-light-gray mid-gray ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b ttu tracked tc">Sold out – thank you!</span>
 </section>
