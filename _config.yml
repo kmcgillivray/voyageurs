@@ -4,6 +4,6 @@ collections:
   - events
 orderLink: https://goo.gl/forms/rGLRrhs2yvKzQ4RB2
 deliveryDate: December 6
-soldOut: true
+soldOut: false
 version: 1.0
 url: voyageurs.co
