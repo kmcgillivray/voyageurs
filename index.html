@@ -8,12 +8,7 @@ description: Freshly baked sourdough delivered free in Green Bay
   <div class="mv4 mv5-ns pv5-ns mw7 center tc">
     <h1 class="mt0 white f2 f1-l lh-title">Freshly baked sourdough delivered <em>free</em> in Green Bay</h1>
     <p class="f4 f3-ns white">Voyageurs sourdough is naturally leavened, hand-crafted bread made with local grains in Green Bay, Wisconsin.</p>
-    {% if site.soldOut %}
-    <span target="_blank" class="dib link bg-light-gray dark-gray ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked">{{ site.deliveryDate }} – sold out</span>
-    <p class="mt2 white">Please check back soon for our next order day!</p>
-    {% else %}
-    <a href="{{ site.orderLink }}" target="_blank" class="dib link bg-sky white ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked">Order now for {{ site.deliveryDate }}</a>
-    {% endif %}
+    {% include bake-day-list.html %}
   </div>
 </div>
 

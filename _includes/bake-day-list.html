@@ -1,0 +1,8 @@
+{% for bakeDay in site.bakeDays %}
+  {% if bakeDay.soldOut %}
+    <span target="_blank" class="dib link bg-light-gray dark-gray ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b ttu tracked">{{ bakeDay.deliveryDate }} – sold out</span>
+  {% else %}
+    <a href="{{ bakeDay.orderLink }}" target="_blank" class="dib link bg-sky white ba bw1 b--white-50 f4 mt2 ph3 pv2 br3 b dim ttu tracked">Order now for {{ bakeDay.deliveryDate }}</a>
+  {% endif %}
+  <br>
+{% endfor %}

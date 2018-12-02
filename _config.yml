@@ -2,8 +2,12 @@ title: Voyageurs Sourdough
 collections:
   - faqs
   - events
-orderLink: https://goo.gl/forms/rGLRrhs2yvKzQ4RB2
-deliveryDate: December 6
-soldOut: true
 version: 1.0
 url: voyageurs.co
+bakeDays:
+  - orderLink: https://goo.gl/forms/rGLRrhs2yvKzQ4RB2
+    deliveryDate: December 6
+    soldOut: true
+  - orderLink: https://goo.gl/forms/bMmzyUtVVvz1eehE3
+    deliveryDate: December 13
+    soldOut: false
